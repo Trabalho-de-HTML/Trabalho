@@ -1,0 +1,62 @@
+# Trabalho
+Nosso Trabalho
+body{
+    background-color: pink;
+ 
+}
+ 
+body h2{ /* pontuação 2*/
+    text-align: center;
+ 
+
+    padding: 10px 20px 5px 50px;    
+}
+ 
+#titulo{
+    font-family: sans-serif;
+    color: #380B61;
+    margin-left: 35%;
+}
+
+#subtitulo{
+   font-family: sans-serif;
+    color: #380B61;
+    margin-left: 10%;
+}
+
+.imagem{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+body{
+    background-color: #2F4F4F;
+}
+.segunda_sessao{
+    background-color: green;
+}
+ 
+
+/* formatação de menus*/
+#menu ul li{
+    display: inline;
+}
+
+.menus_horizonta{
+    background-color: green;
+    padding: 20px;
+}
+ 
+@media screen and (min-width: 780px){
+    body{
+        background-color: #87CEFA;
+
+    }
+
+    #menu ul li{
+        display: inline;
+    }
+    .menus_horizonta{
+        background-color: red;
+    }
+}
