@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Nosso Trabalho | Estacio</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+	<div>
+		<h1 id="titulo">Trabalho de HTML</h1>
+		<p id="subtitulo"><strong>Nome da Equipe</strong></p>
+		<br>
+		<p>Elysmar Lima da Silva</p>
+		<p>Matrícula: 202001493433</p>
+		<p>Elysmar Lima da Silva</p>
+		<p>Matrícula: 202001493433</p>
+		<p>Elysmar Lima da Silva</p>
+		<p>Matrícula: 202001493433</p>
+		<p>Elysmar Lima da Silva</p>
+		<p>Matrícula: 202001493433</p>
+	</div>
+	<header>
+		<div id="imagem">
+		<img src="imagens/unnamed.jpg"/>
+		</div>
+	<br>
+	<h4>Quem somos?</h4>
+	<div class="menu_horizontal" id="menu">
+		<ul id="itens_menu">
+			<li class="item_menu"><a href="#Aluno1">Elysmar Lima</a> </li>
+			<li class="item_menu"><a href="#Aluno2">Elysmar Lima</a> </li>
+			<li class="item_menu"><a href="#Aluno3">Elysmar Lima</a> </li>
+			<li class="item_menu"><a href="#Aluno4">Elysmar Lima</a> </li>
+		</ul>
+	</div>
+
+	</header>
+
+	<section id="Aluno1">
+		<h4>Elysmar Lima</h4>
+		<p>Cursando 2º semestre de ADS.</p>
+		<a href="#">Elysmar Lima</a>
+	</section>
+	<section>
+		<h6>minha foto</h6>
+		<div>
+			<img src="imagens/Betim.jpg"/>
+		</div>
+	</section>
+
+	<section id="Aluno2">
+		<h4>aluno2</h4>
+		<p>Estudo ADS 2º semestre, turno noite.</p>
+		<a href="#">Aluno2</a>
+	</section>
+	<section>
+		<h6>minha foto</h6>
+		<div>
+			<img src="imagens/download5.jpg"/>
+		</div>
+	</section>
+
+	<section id="Aluno3">
+		<h4>aluno3</h4>
+		<p>Estudo ADS 2º semestre, turno noite.</p>
+		<a href="#">Aluno3</a>
+	</section>
+	<section>
+		<h6>minha foto</h6>
+		<div>
+			<img src="imagens/download5.jpg"/>
+		</div>
+	</section>
+
+	<section id="Aluno4">
+		<h4>aluno4</h4>
+		<p>Estudo ADS 2º semestre, turno noite.</p>
+		<a href="#">Aluno4</a>
+	</section>
+	<section>
+		<h6>minha foto</h6>
+		<div>
+			<img src="imagens/download5.jpg"/>
+		</div>
+	</section>
+
+	<footer>
+		
+	</footer>
+
+
+
+	<section class="segunda_sessão">
+		<p>segunda sessão</p>
+	</section>
+
+
+
+	
+</body>
+</html>
